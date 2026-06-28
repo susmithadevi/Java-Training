@@ -5,6 +5,7 @@ public class SimpleInterest {
         double time = 3;
         double simpleInterest = (principle * rate * time)/100;
         System.out.println("The simple interest is: "+ simpleInterest);
+        
     }
     
 }
