@@ -1,3 +1,5 @@
+package Day22;
+
 import java.util.*;
 
 public class ThreeSum {
@@ -57,3 +59,4 @@ public class ThreeSum {
         System.out.println(ans);
     }
 }
+

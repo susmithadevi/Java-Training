@@ -1,3 +1,5 @@
+package Day22;
+
 public class TrappingRainWater {
 
     public static int trap(int[] height) {
@@ -46,3 +48,4 @@ public class TrappingRainWater {
         System.out.println("Trapped Water = " + result);
     }
 }
+

@@ -1,3 +1,5 @@
+package Day22;
+
 import java.util.Arrays;
 
 public class MergeSortArray {
