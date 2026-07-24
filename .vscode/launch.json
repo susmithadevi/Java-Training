@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LemonadeChange",
+            "request": "launch",
+            "mainClass": "Day30.LemonadeChange",
+            "projectName": "Java-Training_92a13913"
+        },
+        {
+            "type": "java",
+            "name": "AssignCookies",
+            "request": "launch",
+            "mainClass": "Day30.AssignCookies",
+            "projectName": "Java-Training_92a13913"
+        },
+        {
+            "type": "java",
+            "name": "MaxHeapDelete",
+            "request": "launch",
+            "mainClass": "Day30.MaxHeapDelete",
+            "projectName": "Java-Training_92a13913"
+        },
+        {
+            "type": "java",
+            "name": "MaxHeapInsert",
+            "request": "launch",
+            "mainClass": "Day30.MaxHeapInsert",
+            "projectName": "Java-Training_92a13913"
+        },
+        {
+            "type": "java",
             "name": "DailyTemperature",
             "request": "launch",
             "mainClass": "Day26.DailyTemperature",

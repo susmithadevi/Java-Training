@@ -51,6 +51,6 @@ public class DailyTemperature {
 
         sc.close();
     }
-} {
+} 
     
-}
+
