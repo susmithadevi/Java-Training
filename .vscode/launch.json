@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "Day27.Permutation",
+            "projectName": "Java-Training_92a13913"
+        },
+        {
+            "type": "java",
+            "name": "TopkFrequentElements",
+            "request": "launch",
+            "mainClass": "Day23.TopkFrequentElements",
+            "projectName": "Java-Training_92a13913"
+        },
+        {
+            "type": "java",
             "name": "LemonadeChange",
             "request": "launch",
             "mainClass": "Day30.LemonadeChange",
